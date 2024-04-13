@@ -1,15 +1,18 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/iceyami/">
   <img src="https://readme-typing-svg.demolab.com?font=Play&size=40&pause=1000&color=3358FF&center=true&random=true&width=700&height=79&lines=MAR%C3%8DA+GUTI%C3%89RREZ" />
-</a>
-</p>
+</a></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iceyami/">
   <img src="https://readme-typing-svg.demolab.com?font=Play&size=20&pause=1000&color=33A1F3&center=true&random=true&width=500&height=40&lines=— iceYami —" />
-</a>
-</p>
+</a> </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/iceyami/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Icon">
+</a><p>
+  
 <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=iceyami&theme=transparent&show_icons=true">
       <a href="https://github.com/iceyami/github-readme-stats">
