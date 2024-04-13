@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/iceyami/">
   <img src="https://readme-typing-svg.demolab.com?font=Play&size=20&pause=1000&color=33A1F3&center=true&random=true&width=500&height=40&lines=— iceYami —" />
 </a>
-
+</p>
 
 <table>
   <tr>
