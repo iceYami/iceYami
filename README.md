@@ -13,11 +13,11 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=iceyami&theme=transparent&show_icons=true" alt="MG's GitHub stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=iceyami&theme=transparent&show_icons=true">
     </td>
     <td>
       <a href="https://github.com/iceyami/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceyami&theme=transparent" alt="Top Langs">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceyami&theme=transparent">
       </a>
     </td>
   </tr>
@@ -150,12 +150,11 @@
     <img src="https://wallpapercave.com/wp/wp10468266.jpg">
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/iceyami/" target="_blank">
+  <a href="https://www.linkedin.com/in/iceyami/">
   <img src="https://raw.githubusercontent.com/iceYami/Almacen/main/MakimaTalking.gif" />
 </a>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/iceyami/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&pause=1000&random=false&width=700&height=100&lines=%22When+you+talk+about+%E2%80%9Cnecessary+evil%2C%E2%80%9D+you%E2%80%99re+using+that+term+to+justify+the+evil+acts+you+commit.%22"</a>
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&pause=1000&random=false&width=700&height=100&lines=%22When+you+talk+about+%E2%80%9Cnecessary+evil%2C%E2%80%9D+you%E2%80%99re+using+that+term+to+justify+the+evil+acts+you+commit.%22" </a>
 </p>
