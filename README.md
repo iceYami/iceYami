@@ -10,18 +10,10 @@
 </a>
 </p>
 
-<table>
-  <tr>
-    <td>
+<p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=iceyami&theme=transparent&show_icons=true">
-    </td>
-    <td>
       <a href="https://github.com/iceyami/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceyami&theme=transparent">
-      </a>
-    </td>
-  </tr>
-</table>
+      </a><p>
 
 
 <hr style="border-color:blue;">
