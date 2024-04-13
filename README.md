@@ -30,7 +30,7 @@
 
 ## EXPERIENCIA
 
-- **2023** Técnico de Sistemas, ATM Grupo Maggioli
+- **2023-actualmente** Técnico de Sistemas, ATM Grupo Maggioli
 - **2023** Técnico Informático, Fundación Cibervoluntarios
 - **2022** Administrador de Sistemas, Guadalinfo
 - **2020** Administrador de Sistemas, Protección Civil
