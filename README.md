@@ -151,7 +151,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iceyami/" target="_blank">
-  <img src="https://raw.githubusercontent.com/iceYami/iceYami/main/MakimaTalking.gif" />
+  <img src="https://raw.githubusercontent.com/iceYami/Almacen/main/MakimaTalking.gif" />
 </a>
 
 <p align="center">
