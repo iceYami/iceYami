@@ -137,6 +137,11 @@
 [![VMware Icon](https://img.icons8.com/color/48/000000/vmware.png)](https://www.vmware.com/)
 [![Windows Icon](https://img.icons8.com/color/48/000000/windows-10.png)](https://www.microsoft.com/en-us/windows)
 
+<p align="center">
+<a href="https://github.com/iceYami/iceYami">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceYami&langs_count=8" />
+</a></p>
+
 <hr style="border-color:blue;">
 <p></p>
 
