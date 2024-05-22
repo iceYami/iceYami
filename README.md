@@ -88,7 +88,7 @@
 - Programa Avanzado En Agile Project Management
 - Servicios con aparatos de rayos X
 - Seguridad Privada, especialidad en Explosivos
-- CISSP® - Certified Information Systems Security Professional
+- Formación CISSP® - Certified Information Systems Security Professional
 - ISO/IEC 20000 It Service Management Associate™
 - ISO/IEC 27001:2022 Information Skillfront Security Associate™
 - ISO 9001 Quality Management Skillfront Systems Associate™
