@@ -34,7 +34,7 @@
 
 <hr style="border-color:blue;">
 
-## NOTABLE TRAINING
+## TRAINING
 - Systems Area.
 - Cybersecurity Area.
 
