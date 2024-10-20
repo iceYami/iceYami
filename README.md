@@ -111,7 +111,7 @@
 ## 🎮 MULTIPLAYER GAMES
 <p>
   <img src="https://img.shields.io/badge/League_of_Legends-1E90FF?style=flat&logo=riotgames&logoColor=white" alt="League of Legends" />
-  <img src="https://img.shields.io/badge/Helldivers_2-1E90FF?style=flat&logo=gamepad&logoColor=white" alt="Helldivers 2" />
+  <img src="https://img.shields.io/badge/Helldivers_2-565656?style=flat&logo=gamepad&logoColor=white" alt="Helldivers 2" />
   <img src="https://img.shields.io/badge/Conan_Exiles-DA582D?style=flat&logo=conan-exiles&logoColor=white" alt="Conan Exiles" />
   <img src="https://img.shields.io/badge/Age_of_Empires_II-7E4B3A?style=flat&logo=age-of-empires&logoColor=white" alt="Age of Empires 2" />
   <img src="https://img.shields.io/badge/Left_4_Dead-4E8B38?style=flat&logo=left-4-dead&logoColor=white" alt="Left 4 Dead" />
