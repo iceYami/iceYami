@@ -92,10 +92,6 @@
   <img src="https://img.shields.io/badge/English-1E90FF?style=flat&logo=language&logoColor=white" alt="English Badge" /> &nbsp;
 </p>
 
-
-<hr style="border-color:blue;">
-<p></p>
-
 <hr style="border-color:blue;">
 
 ## 📖 CLOSING THOUGHTS
