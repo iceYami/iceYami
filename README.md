@@ -20,11 +20,17 @@
       <img src="https://github-readme-stats.vercel.app/api?username=iceyami&theme=transparent&show_icons=true">
       <a href="https://github.com/iceyami/github-readme-stats">
       </a><p>
-        
+
+<p align="center">
+<a href="https://github.com/iceYami/iceYami">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceYami&langs_count=8" />
+</a></p>
+<hr style="border-color:blue;">
+<p></p>
+
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/iceYami.png" alt="TryHackMe">
       </a><p>
-
 
 <hr style="border-color:blue;">
 <p></p>
@@ -86,7 +92,6 @@
 [![Virtual Box Icon](https://img.icons8.com/color/48/000000/virtualbox.png)](https://www.virtualbox.org/)
 [![VMware Icon](https://img.icons8.com/color/48/000000/vmware.png)](https://www.vmware.com/)
 [![Windows Icon](https://img.icons8.com/color/48/000000/windows-10.png)](https://www.microsoft.com/en-us/windows)
-
 
 <p align="center">
     <img src="https://wallpapercave.com/wp/wp10468266.jpg">
