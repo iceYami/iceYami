@@ -124,6 +124,7 @@
   <img src="https://img.shields.io/badge/Palworld-5B94FF?style=flat&logo=palworld&logoColor=white" alt="Palworld" />
   <img src="https://img.shields.io/badge/Stardew_Valley-4EAA7C?style=flat&logo=stardew-valley&logoColor=white" alt="Stardew Valley" />
   <img src="https://img.shields.io/badge/Ghost_Recon_Wildlands-7A8DFF?style=flat&logo=ghost-recon&logoColor=white" alt="Ghost Recon Wildlands" />
+  <img src="https://img.shields.io/badge/Genshin_Impact-5C6BC0?style=flat&logo=genshin-impact&logoColor=white" alt="Genshin Impact" />
   <img src="https://img.shields.io/badge/Chess-000000?style=flat&logo=chess&logoColor=white" alt="Chess" />
 </p>
 
