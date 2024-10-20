@@ -121,6 +121,7 @@
   <img src="https://img.shields.io/badge/Devour-6A2C2E?style=flat&logo=devour&logoColor=white" alt="Devour" />
   <img src="https://img.shields.io/badge/Dying_Light-FFBF00?style=flat&logo=dying-light&logoColor=black" alt="Dying Light" />
   <img src="https://img.shields.io/badge/Far_Cry-FF6A00?style=flat&logo=far-cry&logoColor=white" alt="Far Cry" />
+  <img src="https://img.shields.io/badge/Palworld-5B94FF?style=flat&logo=palworld&logoColor=white" alt="Palworld" />
   <img src="https://img.shields.io/badge/Chess-000000?style=flat&logo=chess&logoColor=white" alt="Chess" />
 </p>
 
