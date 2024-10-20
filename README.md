@@ -100,7 +100,7 @@
 <hr style="border-color:blue;">
 <p></p>
 
-## 🌐 CONNECT WITH ME
+## 🌐 SOCIAL
 
 <p align="center">
   <a href="https://github.com/iceYami" target="_blank">
