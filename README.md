@@ -80,6 +80,10 @@
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
 
+<p align="center">
+<a href="https://github.com/iceYami/iceYami">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceYami&theme=dark&langs_count=10" />
+</a></p>
 
 <hr style="border-color:blue;">
 
@@ -98,7 +102,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iceyami/">
-    <img src="https://readme-typing-svg.demolab.com?font=Play&size=14&pause=500&color=FF5733&center=true&width=500&height=40&lines=Feel+free+to+reach+out+to+me!&random=true" />
+    <img src="https://readme-typing-svg.demolab.com?font=Play&size=14&pause=500&color=green&center=true&width=500&height=40&lines=Feel+free+to+reach+out+to+me!&random=true" />
   </a>
 </p>
 
@@ -135,11 +139,6 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/iceYami/iceYami">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceYami&theme=dark&langs_count=10" />
-</a></p>
-
-<p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/iceYami.png" alt="TryHackMe">
 </p>
 
@@ -174,5 +173,7 @@
 <p></p>
 
 <p align="center">
-  <img src="https://img.icons8.com/fluency/48/000000/like.png" alt="Heart Icon"> Thank you for visiting my profile! <img src="https://img.icons8.com/fluency/48/000000/like.png" alt="Heart Icon">
+  <a href="https://www.linkedin.com/in/iceyami/">
+    <img src="https://readme-typing-svg.demolab.com?font=Play&size=14&pause=500&center=true&width=500&height=40&lines=Thank+You+for+visiting+my+profile+<3&random=true" />
+  </a>
 </p>
