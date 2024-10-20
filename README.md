@@ -21,7 +21,7 @@
 
 <hr style="border-color:blue;">
 
-## 🎓 EDUCATION
+## 🎓 TRAINING
 <p align="center">
   <img src="https://img.shields.io/badge/Master-Cybersecurity-1E90FF?style=flat&logo=education&logoColor=white" alt="Master's in Cybersecurity" /> &nbsp;
   <img src="https://img.shields.io/badge/Advanced_Degree-Systems_Administration-1E90FF?style=flat&logo=education&logoColor=white" alt="Advanced Degree in Systems Administration" /> &nbsp;
