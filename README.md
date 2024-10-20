@@ -21,6 +21,9 @@
       <a href="https://github.com/iceyami/github-readme-stats">
       </a><p>
 
+<hr style="border-color:blue;">
+<p></p>
+
 <p align="center">
 <a href="https://github.com/iceYami/iceYami">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceYami&langs" />
@@ -53,9 +56,6 @@
 </p>
 
 <hr style="border-color:blue;">
-
-<hr style="border-color:blue;">
-<p></p>
 
 [![1Password Icon](https://img.icons8.com/color/32/000000/1password.png)](https://1password.com/)
 [![Active Directory Icon](https://img.icons8.com/color/32/000000/active-directory.png)](https://www.microsoft.com/en-us/cloud-platform/active-directory)
@@ -93,6 +93,9 @@
 [![VMware Icon](https://img.icons8.com/color/48/000000/vmware.png)](https://www.vmware.com/)
 [![Windows Icon](https://img.icons8.com/color/48/000000/windows-10.png)](https://www.microsoft.com/en-us/windows)
 
+<hr style="border-color:blue;">
+<p></p>
+
 <p align="center">
     <img src="https://wallpapercave.com/wp/wp10468266.jpg">
 
@@ -106,9 +109,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&pause=1000&random=false&width=700&height=100&lines=%22When+you+talk+about+%E2%80%9Cnecessary+evil%2C%E2%80%9D+you%E2%80%99re+using+that+term+to+justify+the+evil+acts+you+commit.%22" </a>
 </p>
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/iceyami/">
     <img src="https://raw.githubusercontent.com/iceYami/Warehouse/main/Jamming.gif" width="400" />
   </a>
 </p>
+
+<hr style="border-color:blue;">
+<p></p>
