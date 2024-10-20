@@ -159,7 +159,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iceyami/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&pause=1000&random=false&width=700&height=100&lines=%22When+you+talk+about+%E2%80%9Cnecessary+evil,%E2%80%9D+you%E2%80%99re+using+that+term+to+justify+the+bad+things+you+do.%22" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Code&size=11&pause=1000&random=false&width=700&height=100&lines=%22When+you+talk+about+%E2%80%9Cnecessary+evil,%E2%80%9D+you%E2%80%99re+using+that+term+to+justify+the+bad+things+you+do.%22" />
   </a>
 </p>
 
