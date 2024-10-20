@@ -1,61 +1,56 @@
 <hr style="border-color:blue;">
-<p></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iceyami/">
-  <img src="https://readme-typing-svg.demolab.com?font=Play&size=40&pause=1000&color=3358FF&center=true&random=true&width=700&height=79&lines=MAR%C3%8DA+GUTI%C3%89RREZ" />
+  <img src="https://readme-typing-svg.demolab.com?font=Play&size=40&pause=1000&color=3358FF&center=true&random=true&width=700&height=79&lines=MARIA+GUTIERREZ" />
 </a></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iceyami/">
-  <img src="https://readme-typing-svg.demolab.com?font=Play&size=20&pause=1000&color=33A1F3&center=true&random=true&width=500&height=40&lines=— iceYami —" />
-</a> </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Play&size=20&pause=1000&color=33A1F3&center=true&random=true&width=500&height=40&lines=—+iceYami+—" />
+</a></p>
+
+<hr style="border-color:blue;">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iceyami/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Icon">
-</a><p>
-  
-<p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=iceyami&theme=transparent&show_icons=true">
-      <a href="https://github.com/iceyami/github-readme-stats">
-      </a><p>
+</a></p>
 
-<hr style="border-color:blue;">
-<p></p>
+<p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=iceyami&theme=transparent&show_icons=true" alt="GitHub Stats">
+      <a href="https://github.com/iceyami/github-readme-stats">
+      </a>
+</p>
 
 <p align="center">
 <a href="https://github.com/iceYami/iceYami">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceYami&langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceYami&theme=dark&langs_count=10" />
 </a></p>
-<hr style="border-color:blue;">
-<p></p>
 
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/iceYami.png" alt="TryHackMe">
-      </a><p>
+</p>
 
 <hr style="border-color:blue;">
-<p></p>
-  
-## EXPERIENCE
+
+## 🛠️ EXPERIENCE
 - Systems and Infrastructure Administrator.
 
 <hr style="border-color:blue;">
 
-## TRAINING
-- Systems Area.
-- Cybersecurity Area.
+## 🎓 EDUCATION
+- Master's in Cybersecurity.
+- Advanced Degree in Systems Administration.
+- Intermediate Degree in Microcomputer Systems.
 
 <hr style="border-color:blue;">
 
-## SKILLS
+## 🔧 SKILLS
 
 <p align="center"> 
-● Active Directory ● Agile ● Aircrack-ng ● Ansible ● Anydesk ● Antivirus ● Atlassian ● Audits ● AWX ● Azure ● Backups ● Bash ● BitDefender ● Cloud ● Clustering ● Containers ● Cryptography ● Databases ● Debian ● DevOps ● Diagnostics ● DHCP ● Deployments ● DMZ ● DNS ● Docker ● ENS ● Equipment Assembly ● Failover ● Firewall ● GPO ● Google Suite ● Hardware ● Hashcat ● Hosting ● Hydra ● Hyper-V ● IIS (Internet Information Services) ● Infrastructure Protection ● Integrations ● ISO 27001 ● Jira ● Kali ● Kubernetes ● Linux ● Logging ● Maltrail ● Manuals ● Metadata ● Metasploit ● Migrations ● Monitoring ● Nagios ● Nginx ● Ninja One RMM ● Nmap ● OpenVPN ● PostgreSQL ● Powershell ● Pre-Production ● Production ● Projects ● Python ● Red Hat ● Redmine ● Red Sara ● Repairs ● Training ● Sandbox ● SCCM ● Scripting ● Servers ● Sophos ● SQL ● SQL Server ● Teamviewer ● TCP/IP ● Ubuntu Server ● Veeam Backup ● Virtual Box ● Virtualization ● VMware ● VPN ● vSphere ● Web Services ● Windows ● Windows Server ● Workplace ● Networks
+● Active Directory ● Agile ● Aircrack-ng ● Ansible ● Anydesk ● Antivirus ● Atlassian ● Audits ● AWX ● Azure ● Backups ● Bash ● BitDefender ● Cloud ● Clustering ● Containers ● Cryptography ● Databases ● Debian ● DevOps ● Diagnostics ● DHCP ● Deployments ● DMZ ● DNS ● Docker ● ENS ● Hardware Assembly ● Failover ● Firewall ● GPO ● Google Suite ● Hardware ● Hashcat ● Hosting ● Hydra ● Hyper-V ● IIS ● Infrastructure Protection ● Integrations ● ISO 27001 ● Jira ● Kali ● Kubernetes ● Linux ● Logging ● Maltrail ● Manuals ● Metadata ● Metasploit ● Migrations ● Monitoring ● Nagios ● Nginx ● Ninja One RMM ● Nmap ● OpenVPN ● PostgreSQL ● Powershell ● Pre-Production ● Production ● Projects ● Python ● Red Hat ● Redmine ● Red Team ● Repairs ● Training ● Sandbox ● SCCM ● Scripting ● Servers ● Sophos ● SQL ● SQL Server ● Teamviewer ● TCP/IP ● Ubuntu Server ● Veeam Backup ● Virtual Box ● Virtualization ● VMware ● VPN ● vSphere ● Web Services ● Windows ● Windows Server ● Networks
 </p>
-
-<hr style="border-color:blue;">
 
 [![1Password Icon](https://img.icons8.com/color/32/000000/1password.png)](https://1password.com/)
 [![Active Directory Icon](https://img.icons8.com/color/32/000000/active-directory.png)](https://www.microsoft.com/en-us/cloud-platform/active-directory)
@@ -94,19 +89,61 @@
 [![Windows Icon](https://img.icons8.com/color/48/000000/windows-10.png)](https://www.microsoft.com/en-us/windows)
 
 <hr style="border-color:blue;">
+
+## 💻 PREFERRED PROGRAMMING LANGUAGES
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"> Python &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash"> Bash &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="Powershell"> Powershell &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"> C# 
+</p>
+
+<hr style="border-color:blue;">
+
+## 🗣️ LANGUAGES
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/spain.png" alt="Spanish"> Spanish &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/usa.png" alt="English"> English &nbsp;
+</p>
+
+<hr style="border-color:blue;">
 <p></p>
+
+## 🌐 CONNECT WITH ME
+
+<p align="center">
+  <a href="https://github.com/iceYami" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/iceyami/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
+  </a>
+</p>
+
+<hr style="border-color:blue;">
+
+## 📖 CLOSING THOUGHTS
+
+<p align="center"> Feel free to reach out to me!</p>
+
+<hr style="border-color:blue;">
 
 <p align="center">
     <img src="https://wallpapercave.com/wp/wp10468266.jpg">
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iceyami/">
-  <img src="https://raw.githubusercontent.com/iceYami/Almacen/main/MakimaTalking.gif" />
-</a>
+    <img src="https://raw.githubusercontent.com/iceYami/Almacen/main/MakimaTalking.gif" />
+  </a>
+</p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/iceyami/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&pause=1000&random=false&width=700&height=100&lines=%22When+you+talk+about+%E2%80%9Cnecessary+evil%2C%E2%80%9D+you%E2%80%99re+using+that+term+to+justify+the+evil+acts+you+commit.%22" </a>
+  <a href="https://www.linkedin.com/in/iceyami/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&pause=1000&random=false&width=700&height=100&lines=%22Cuando+hablas+de+%E2%80%9Cmal+necesario%2C%E2%80%9D+est%C3%A1s+usando+ese+t%C3%A9rmino+para+justificar+los+actos+malos+que+cometes.%22" />
+  </a>
 </p>
 
 <p align="center">
@@ -117,3 +154,7 @@
 
 <hr style="border-color:blue;">
 <p></p>
+
+<p align="center">
+  <img src="https://img.icons8.com/fluency/48/000000/like.png" alt="Heart Icon"> Thank you for visiting my profile! <img src="https://img.icons8.com/fluency/48/000000/like.png" alt="Heart Icon">
+</p>
