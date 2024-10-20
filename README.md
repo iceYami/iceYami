@@ -101,7 +101,11 @@
 
 ## 📖 CLOSING THOUGHTS
 
-<p align="center"> Feel free to reach out to me!</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/iceyami/">
+    <img src="https://readme-typing-svg.demolab.com?font=Play&size=14&pause=500&color=FF5733&center=true&width=500&height=40&lines=Feel+free+to+reach+out+to+me!&random=true" />
+  </a>
+</p>
 
 <hr style="border-color:blue;">
 
