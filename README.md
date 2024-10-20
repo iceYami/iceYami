@@ -136,8 +136,6 @@
 
 <hr style="border-color:blue;">
 
-<hr style="border-color:blue;">
-
 ## 🎮 FAV MULTIPLAYER GAMES
 <p>
   <img src="https://img.shields.io/badge/League_of_Legends-1E90FF?style=flat&logo=riotgames&logoColor=white" alt="League of Legends" />
