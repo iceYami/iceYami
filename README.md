@@ -12,25 +12,8 @@
 
 <hr style="border-color:blue;">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/iceyami/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Icon">
-</a></p>
-
-<p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=iceyami&theme=transparent&show_icons=true" alt="GitHub Stats">
-      <a href="https://github.com/iceyami/github-readme-stats">
-      </a>
-</p>
-
-<p align="center">
-<a href="https://github.com/iceYami/iceYami">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceYami&theme=dark&langs_count=10" />
-</a></p>
-
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/iceYami.png" alt="TryHackMe">
-</p>
+# MARÍA GUTIÉRREZ
+[![GitHub followers](https://img.shields.io/github/followers/iceyami?style=social)](https://github.com/iceyami) [![GitHub](https://img.shields.io/badge/GitHub-iceyami-black?style=flat&logo=github)](https://github.com/iceyami) [![LinkedIn](https://img.shields.io/badge/LinkedIn-iceyami-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/iceyami) [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-iceYami-brightgreen)](https://app.hackthebox.com/profile/iceYami) [![TryHackMe](https://img.shields.io/badge/TryHackMe-iceYami-orange)](https://tryhackme.com/p/iceYami) [![Codewars](https://img.shields.io/badge/Codewars-iceYami-brown)](https://www.codewars.com/users/iceYami)
 
 <hr style="border-color:blue;">
 
@@ -152,6 +135,27 @@
 </p>
 
 <hr style="border-color:blue;">
+
+## STATS
+
+<p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=iceyami&theme=transparent&show_icons=true" alt="GitHub Stats">
+      <a href="https://github.com/iceyami/github-readme-stats">
+      </a>
+</p>
+
+<p align="center">
+<a href="https://github.com/iceYami/iceYami">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceYami&theme=dark&langs_count=10" />
+</a></p>
+
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/iceYami.png" alt="TryHackMe">
+</p>
+
+<hr style="border-color:blue;">
+
+## BYE BYE
 
 <p align="center">
     <img src="https://wallpapercave.com/wp/wp10468266.jpg">
