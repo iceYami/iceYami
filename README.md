@@ -131,6 +131,20 @@
 
 <hr style="border-color:blue;">
 
+## 🧩 HOBBIES
+- Hiking.
+- Reading books.
+- Going out with friends.
+- Working out at the gym.
+- Playing video games with friends.
+- Writing short stories.
+- Listening to music (i love piano songs!).
+- Playing the piano.
+- Practicing mindfulness.
+- Playing chess.
+- Learning new things.
+
+<hr style="border-color:blue;">
 
 ## 🎮 FAVORITE MULTIPLAYER GAMES
 <p>
