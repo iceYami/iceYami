@@ -10,9 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Play&size=20&pause=1000&color=33A1F3&center=true&random=true&width=500&height=40&lines=—+iceYami+—" />
 </a></p>
 
-<hr style="border-color:blue;">
-
-# MARÍA GUTIÉRREZ
 [![GitHub followers](https://img.shields.io/github/followers/iceyami?style=social)](https://github.com/iceyami) [![GitHub](https://img.shields.io/badge/GitHub-iceyami-black?style=flat&logo=github)](https://github.com/iceyami) [![LinkedIn](https://img.shields.io/badge/LinkedIn-iceyami-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/iceyami) [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-iceYami-brightgreen)](https://app.hackthebox.com/profile/iceYami) [![TryHackMe](https://img.shields.io/badge/TryHackMe-iceYami-orange)](https://tryhackme.com/p/iceYami) [![Codewars](https://img.shields.io/badge/Codewars-iceYami-brown)](https://www.codewars.com/users/iceYami)
 
 <hr style="border-color:blue;">
@@ -99,17 +96,6 @@
 
 <hr style="border-color:blue;">
 <p></p>
-
-## 🌐 SOCIAL
-
-<p align="center">
-  <a href="https://github.com/iceYami" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/iceyami/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
-  </a>
-</p>
 
 <hr style="border-color:blue;">
 
