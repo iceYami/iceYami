@@ -23,7 +23,7 @@
 
 <p align="center">
 <a href="https://github.com/iceYami/iceYami">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceYami&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceYami&langs" />
 </a></p>
 <hr style="border-color:blue;">
 <p></p>
