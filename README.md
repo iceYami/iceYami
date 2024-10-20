@@ -105,7 +105,7 @@
 
 <hr style="border-color:blue;">
 
-## 🎮 FAV MULTIPLAYER GAMES
+## 🎮 MULTIPLAYER GAMES
 <p>
   <img src="https://img.shields.io/badge/League_of_Legends-1E90FF?style=flat&logo=riotgames&logoColor=white" alt="League of Legends" />
   <img src="https://img.shields.io/badge/Conan_Exiles-DA582D?style=flat&logo=conan-exiles&logoColor=white" alt="Conan Exiles" />
