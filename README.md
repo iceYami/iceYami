@@ -29,82 +29,24 @@
 <hr style="border-color:blue;">
 <p></p>
   
-## EXPERIENCIA
-
-- **2024-actualmente** Administradora de Sistemas, T-Systems
-- **2023-2024** Técnico de Sistemas, ATM Grupo Maggioli
-- **2023** Técnico Informático, Fundación Cibervoluntarios
-- **2022** Administrador de Sistemas, Guadalinfo
-- **2020** Administrador de Sistemas, Protección Civil
+## EXPERIENCE
+- Systems and Infrastructure Administrator.
 
 <hr style="border-color:blue;">
-<p></p>
 
-
-## FORMACIÓN DESTACADA
-
-- **Cursando:** Master en Ciberseguridad, Universidad Católica de Murcia
-- **Cursando:** Grado Superior en Administración de Sistemas Informáticos, Teide IV
-- **2021:** Grado en Sistemas Microinformáticos y Redes, Ilerna
-- **2023:** Curso de LPIC-1, Instituto Profesional De Linux
-- **2024:** CCNP Cisco Certified Network Professional, Ministerio de Trabajo y Economía Social
-- **2023:** Técnico de Ciberseguridad, Instituto Nacional De Ciberseguridad De España
-- **2023:** Certificado de Profesionalidad de Ciberseguridad, Inco Academy
-- **2023:** Postgrado en Selección, Formación y PRL, Universidad Internacional Isabel I
-- **2023:** Business English Program Certificate, Universidad Internacional Isabel I
-- **2022:** Habilitación Profesional de Seguridad, Ministerio del Interior de España
+## NOTABLE TRAINING
+- Systems Area.
+- Cybersecurity Area.
 
 <hr style="border-color:blue;">
-<p></p>
 
+## SKILLS
 
-## CERTIFICACIONES COMPLEMENTARIAS DESTACABLES
-
-- Linux Profesional, Linux Professional Institute Training Partner
-- Certificado de Profesionalidad de Soporte IT, Beca Fundae-Google
-- Administración de sistemas y servicios de infraestructura, Google
-- Administración de Sistemas Informáticos
-- Windows Server 2012 y Ubuntu Server Certification
-- Técnico de Ciberseguridad, INCIBE
-- Ciberseguridad para microempresas y autónomos, INCIBE
-- Seguridad Informática, Google
-- Ethical Hacking: Eternalblue Certification
-- V Jornadas de Ciberdefensa ESPDEF-CERT, STIC CCN-CERT
-- Network Security Fundamentals, Palo Alto Networks
-- Cloud Security Fundamentals, Palo Alto Networks
-- Contraterrorismo Y Contrainsurgencia, Grupo Goberna
-- English Business Program Certificate, ENEB
-- CCNP – Switching de Cisco, Ministerio de Trabajo
-- Certified Associate In Skillfront Scrum Fundamentals (CASF)
-- Human Resource Management
-- Firewall Pfsense Certification
-- Google Data Analytics Certification DA/GDA/23/1439
-- Oracle Cloud Infrastructure Certified Foundations Associate
-- IBM Cloud Essentials V3
-- Cloud Computing, Google
-- Python Essentials, Cisco
-- Bases y conceptos de la Ciencia de Datos
-- Introducción al análisis de datos con Python
-- Programación con PHP y MySQL
-- Desarrollo de Apps Móviles, Universidad Complutense de Madrid
-- Seguridad y Gestión de incidentes, Universidad Europea de Madrid
-- Certificado de Piloto de Drones A1/A3
-- Programa Avanzado En Agile Project Management
-- Servicios con aparatos de rayos X
-- Seguridad Privada, especialidad en Explosivos
-- Formación CISSP® - Certified Information Systems Security Professional
-- ISO/IEC 20000 It Service Management Associate™
-- ISO/IEC 27001:2022 Information Skillfront Security Associate™
-- ISO 9001 Quality Management Skillfront Systems Associate™
-- ISO/IEC 27001 (ISMS)
-- Protección de Datos Personales en las Administraciones Públicas
+<p align="center"> 
+1password, Active Directory, Systems Administration, Agile, Aircrack-ng, High Availability, Anydesk, Archive, Atlassian, Backups, Bash, BitDefender, Cybersecurity, Cisco, Cloud, Clustering, Databases, Debian, DHCP, Diagnostics, DMZ, DNS, Technical Documentation, E-learning, ENS, Hardware Assembly, Steganography, Failover, Firewall, Foca, Training, Fortinet, Package Management, Google Hacking, Google Suite, GPO, Grafana, Ethical Hacking, Hardware, Hashcat, Hosting, Hydra, Hyper-V, Reports, Internet Information Services (IIS), Centralized Installations, Integrations, IPSEC, Jira, John The Ripper, Kali, Linux, Maltego, Maltrail, Metadata, Metasploit, Migrations, Monitoring, Nagios, Nginx, Ninja One RMM, Nmap, OpenVPN, PET, Pfsense, PostgreSQL, Powershell, Python, Networks, Red Hat, Redmine, Logs, Repairs, Sandbox, Scripting, Servers, Shodan, S-Tools, SQL, Teamviewer, TPC/IP, Ubuntu Server, Veeam Backup, Virtualization, Virtual Box, VMware, Vulnerabilities, VPN, Vsphere Esxi, Whois, Windows Server, Wireshark, Workspace
+</p>
 
 <hr style="border-color:blue;">
-<p></p>
-
-## COMPETENCIAS
-
-<p align="center"> 1password, Active Directory, Administración de Sistemas, Agile, Aircrack-ng, Alta Disponibilidad, Anydesk, Archive, Atlassian, Backups, Bash, BitDefender, Ciberseguridad, Cisco, Cloud, Clúster, Databases, Debian, DHCP, Diagnósticos, DMZ, DNS, Documentación Técnica, E-learning, ENS, Ensamblaje de equipos, Esteganografía, Failover, Firewall, Foca, Formación, Fortinet, Gestión de paquetes, Google Hacking, Google Suite, GPO, Grafana, Hacking ético, Hardware, Hashcat, Hosting, Hydra, Hyper-V, Informes, Internet Information Services (IIS), Instalaciones Centralizadas, Integraciones, IPSEC, Jira, John The Ripper, Kali, Linux, Maltego, Maltrail, Metadatos, Metasploit, Migraciones, Monitorización, Nagios, Nginx, Ninja One RMM, Nmap, OpenVPN, PET, Pfsense, PostgreSQL, Powershell, Python, Redes, Red Hat, Redmine, Registros, Reparación, Sandbox, Scripting, Servidores, Shodan, S-Tools, SQL, Teamviewer, TPC/IP, Ubuntu Server, Veeam Backup, Virtualización, Virtual Box, VMware, Vulnerabilidades, VPN, Vsphere Esxi, Whois, Windows Server, Wireshark, Workspace </p>
 
 <hr style="border-color:blue;">
 <p></p>
