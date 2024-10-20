@@ -163,7 +163,6 @@
   </a>
 </p>
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/iceyami/">
     <img src="https://raw.githubusercontent.com/iceYami/Warehouse/main/Jamming.gif" width="400" />
