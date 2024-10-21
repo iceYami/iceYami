@@ -145,6 +145,10 @@
 
 <hr style="border-color:blue;">
 
+## REFS
+
+[![My Bro](https://img.shields.io/badge/My%20Bro%20Check%20Him%20Out%20-%23007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danireve/)
+
 ## BYE BYE
 
 <p align="center">
