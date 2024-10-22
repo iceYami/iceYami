@@ -134,7 +134,7 @@
 
 <hr style="border-color:blue;">
 
-## STATS
+## 📊 STATS
 
 <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=iceyami&theme=transparent&show_icons=true" alt="GitHub Stats">
@@ -148,11 +148,11 @@
 
 <hr style="border-color:blue;">
 
-## REFS
+## 📡 REFS
 
 [![My Bro](https://img.shields.io/badge/Dani%20My%20🐍%20Python%20Bro%20Check%20Him%20Out%20-%23007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danireve/)
 
-## BYE BYE
+## 👋 BYE BYE
 
 <p align="center">
     <img src="https://wallpapercave.com/wp/wp10468266.jpg">
