@@ -150,7 +150,7 @@
 
 ## REFS
 
-[![My Bro](https://img.shields.io/badge/Dani%20My%20Bro%20Check%20Him%20Out%20-%23007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danireve/)
+🐍 [![My Bro](https://img.shields.io/badge/Dani%20My%20Python%20Bro%20Check%20Him%20Out%20-%23007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danireve/)
 
 ## BYE BYE
 
