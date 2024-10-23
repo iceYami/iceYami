@@ -162,7 +162,7 @@
 
 ## 📡 REFS
 
-[![My Bro](https://img.shields.io/badge/Dani%20My%20🐍%20Python%20Bro%20Check%20Him%20Out%20-%23007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danireve/)
+[![My Bro](https://img.shields.io/badge/🐍%20My%20Python%20Bro-%23007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danireve/)  [![My ITRec](https://img.shields.io/badge/%20🌟My%20Fav%20IT%20Recruiter%20-%23007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mjmartinezleo/)
 
 ## ❤️ SEE YOU
 
