@@ -135,15 +135,19 @@
 <hr style="border-color:blue;">
 
 ## 📊 STATS
+  
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/iceYami.png" alt="TryHackMe">
+</p>
+
+<p align="center">
+  <img src="https://www.codewars.com/users/iceYami/badges/large" alt="Codewars Badge">
+</p>
 
 <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=iceyami&theme=transparent&show_icons=true" alt="GitHub Stats">
       <a href="https://github.com/iceyami/github-readme-stats">
       </a>
-</p>
-
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/iceYami.png" alt="TryHackMe">
 </p>
 
 <hr style="border-color:blue;">
