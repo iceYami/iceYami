@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iceyami/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=3358FF&center=true&random=true&width=700&height=79&lines=『+MARIA+GUTIERREZ+』" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=800&color=3358FF&center=true&random=true&width=700&height=100&lines=『+MARIA+GUTIERREZ+』" />
 </a></p>
 
 <p align="center">
