@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iceyami/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=800&color=3358FF&center=true&random=true&width=700&height=100&lines=『+MARIA+GUTIERREZ+』" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=800&color=3358FF&center=true&random=true&width=800&height=100&lines=『+MARIA+GUTIERREZ+』" />
 </a></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iceyami/">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=33A1F3&center=true&random=true&width=500&height=40&lines=≼+iceYami_≽" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=33A1F3&center=true&random=true&width=700&height=40&lines=➤+≼+iceYami_≽" />
 </a></p>
 
 [![GitHub followers](https://img.shields.io/github/followers/iceyami?style=social)](https://github.com/iceyami) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/iceyami) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iceyami) [![LinkedIn Newsletter](https://img.shields.io/badge/LinkedIn_Newsletter-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/7156421542409646080/) [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-0F0?style=flat&logo=hack-the-box&logoColor=black)](https://app.hackthebox.com/profile/iceYami) [![TryHackMe](https://img.shields.io/badge/TryHackMe-FF4F00?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/iceYami) [![Codewars](https://img.shields.io/badge/Codewars-BA0C2F?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/iceYami) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/iceYami/) [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/iceYami)
