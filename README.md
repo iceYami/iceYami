@@ -144,6 +144,8 @@
   <img src="https://www.codewars.com/users/iceYami/badges/large" alt="Codewars Badge">
 </p>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=iceyami)
+
 <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=iceyami&theme=transparent&show_icons=true" alt="GitHub Stats">
       <a href="https://github.com/iceyami/github-readme-stats">
