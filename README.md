@@ -160,11 +160,16 @@
 
 <hr style="border-color:blue;">
 
-## 📡 REFS
+## 📡 REFERENCES
 
-[![My Bro](https://img.shields.io/badge/🐍%20My%20Python%20Bro-%23007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danireve/)  [![My ITRec](https://img.shields.io/badge/%20🌟My%20Fav%20IT%20Recruiter%20-%23007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mjmartinezleo/)
+[![My Python Bro](https://img.shields.io/badge/🐍%20My%20Python%20Bro-%23007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danireve/)  
+  <a href="https://www.linkedin.com/in/danireve/">
+> **Danny** – A great programming buddy and developer.
+ <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=900&color=33A1F3&center=true&random=true&width=700&height=40&lines=Python Danny" />
 
-<hr style="border-color:blue;">
+ [![My Favorite IT Recruiter](https://img.shields.io/badge/%20🌟My%20Fav%20IT%20Recruiter%20-%23007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mjmartinezleo/)
+> **MJ** – IT recruitment specialist, a great resource for finding talent.
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=900&color=33A1F3&center=true&random=true&width=700&height=40&lines=The SkillSeeker" />
 
 ## ❤️ SEE YOU
 
