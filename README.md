@@ -118,7 +118,7 @@
 
 <hr style="border-color:blue;">
 
-## 🎮 MULTIPLAYER GAMES
+## 🎮 TOP MULTIPLAYER GAMES
 <p>
   <img src="https://img.shields.io/badge/League_of_Legends-1E90FF?style=flat&logo=riotgames&logoColor=white" alt="League of Legends" />
   <img src="https://img.shields.io/badge/Helldivers_2-565656?style=flat&logo=gamepad&logoColor=white" alt="Helldivers 2" />
