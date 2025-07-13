@@ -151,16 +151,6 @@ Senior Infrastructure Engineer with expertise in cybersecurity, cloud architectu
 
 <hr style="border-color:blue;">
 
-## 🎮 CTF & Hacking Platforms
-<div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/iceYami.png" alt="TryHackMe" />
-</div>
-<div align="center">
-  <img src="https://www.codewars.com/users/iceYami/badges/large" alt="Codewars" />
-</div>
-
-<hr style="border-color:blue;">
-
 💡 Current Focus
 
 🔐 Advanced Threat Detection: Implementing AI-powered security solutions
