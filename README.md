@@ -154,9 +154,13 @@ Senior Infrastructure Engineer with expertise in cybersecurity, cloud architectu
 💡 Current Focus
 
 🔐 Advanced Threat Detection: Implementing AI-powered security solutions
+
 ☁️ Multi-Cloud Architecture: Designing resilient hybrid cloud environments
+
 🤖 Infrastructure Automation: Building self-healing systems with Ansible & Terraform
+
 📊 Observability: Creating comprehensive monitoring and alerting systems
+
 🛡️ Zero Trust Security: Implementing next-generation security frameworks
 
 <hr style="border-color:blue;">
@@ -164,10 +168,15 @@ Senior Infrastructure Engineer with expertise in cybersecurity, cloud architectu
 ## 🌟 Fun Facts
 
 🎯 Active in cybersecurity communities and bug bounty programs
+
 🏆 Regular CTF participant and security researcher
+
 📚 Passionate about sharing knowledge through technical writing
+
 🎮 Gamer who applies strategic thinking to infrastructure challenges
+
 🥋 Krav Maga practitioner - discipline in martial arts & cybersecurity
+
 
 
 <div align="center">
