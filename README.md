@@ -177,12 +177,9 @@ Senior Infrastructure Engineer with expertise in cybersecurity, cloud architectu
 
 🥋 Krav Maga practitioner - discipline in martial arts & cybersecurity
 
-
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=iceyami&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
-
 
 ## 🎮 TOP MULTIPLAYER GAMES
 <p>
@@ -210,7 +207,7 @@ Senior Infrastructure Engineer with expertise in cybersecurity, cloud architectu
 
 [![My Python Bro](https://img.shields.io/badge/🐍%20My%20Python%20Bro-%23007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danireve/)  
   <a href="https://www.linkedin.com/in/danireve/">
-> **Danny** – A great programming buddy and developer.
+> **Dany** – A great programming buddy and developer.
 
  [![My Favorite IT Recruiter](https://img.shields.io/badge/%20🌟My%20Fav%20IT%20Recruiter%20-%23007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mjmartinezleo/)
 > **MJ** – IT recruitment specialist, a great resource for finding talent.
