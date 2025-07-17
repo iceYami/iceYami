@@ -121,7 +121,7 @@ Senior Infrastructure Engineer with expertise in cybersecurity, cloud architectu
 
 <hr style="border-color:blue;">
 
-## 🏆 GitHub Stats & Achievements
+## 🏆 Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iceyami&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
@@ -132,23 +132,28 @@ Senior Infrastructure Engineer with expertise in cybersecurity, cloud architectu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceyami&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-<hr style="border-color:blue;">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Imegami&theme=tokyonight" alt="Profile Summary" />
+</p>
 
-## 📊 STATS
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Imegami&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Imegami&theme=tokyonight" alt="Repos Per Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Imegami&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Imegami&theme=tokyonight&utcOffset=1" alt="Productive Time" />
+</p>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=iceyami)
+
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/iceYami.png" alt="TryHackMe">
 </p>
 
 <p align="center">
   <img src="https://www.codewars.com/users/iceYami/badges/large" alt="Codewars Badge">
-</p>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=iceyami)
-
-<p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=iceyami&theme=transparent&show_icons=true" alt="GitHub Stats">
-      <a href="https://github.com/iceyami/github-readme-stats">
-      </a>
 </p>
 
 <hr style="border-color:blue;">
@@ -200,7 +205,7 @@ Senior Infrastructure Engineer with expertise in cybersecurity, cloud architectu
 
 <hr style="border-color:blue;">
 
-## 🎮 TOP MULTIPLAYER GAMES
+## 🎮 Top Multiplayer Games
 <p>
   <img src="https://img.shields.io/badge/League_of_Legends-1E90FF?style=flat&logo=riotgames&logoColor=white" alt="League of Legends" />
   <img src="https://img.shields.io/badge/Helldivers_2-565656?style=flat&logo=gamepad&logoColor=white" alt="Helldivers 2" />
@@ -222,7 +227,7 @@ Senior Infrastructure Engineer with expertise in cybersecurity, cloud architectu
 
 <hr style="border-color:blue;">
 
-## 📡 REFERENCES
+## 📡 References
 
 [![My Python Bro](https://img.shields.io/badge/🐍%20My%20Python%20Bro-%23007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danireve/)  
   <a href="https://www.linkedin.com/in/danireve/">
@@ -233,7 +238,7 @@ Senior Infrastructure Engineer with expertise in cybersecurity, cloud architectu
 
 <hr style="border-color:blue;">
 
-## ❤️ SEE YOU
+## ❤️ See You
 
 <p align="center">
     <img src="https://wallpapercave.com/wp/wp10468266.jpg">
