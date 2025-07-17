@@ -16,7 +16,7 @@ Hi there! 👋 I'm iceYami
 ## 🚀 About Me
 Senior Infrastructure Engineer with expertise in cybersecurity, cloud architecture, and systems administration. I specialize in building resilient, scalable infrastructure solutions while maintaining the highest security standards.
 
-🎯 What I Do
+## 🎯 What I Do
 
 🏗️ Infrastructure Design: Architecting hybrid cloud solutions (Azure, AWS, On-Premise)
 
