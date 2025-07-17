@@ -132,6 +132,8 @@ Senior Infrastructure Engineer with expertise in cybersecurity, cloud architectu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceyami&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
+<hr style="border-color:blue;">
+
 ## 📊 STATS
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/iceYami.png" alt="TryHackMe">
@@ -151,7 +153,7 @@ Senior Infrastructure Engineer with expertise in cybersecurity, cloud architectu
 
 <hr style="border-color:blue;">
 
-💡 Current Focus
+## 💡 Current Focus
 
 🔐 Advanced Threat Detection: Implementing AI-powered security solutions
 
@@ -165,7 +167,7 @@ Senior Infrastructure Engineer with expertise in cybersecurity, cloud architectu
 
 <hr style="border-color:blue;">
 
-## 🌟 Fun Facts
+## 🎮 When I'm Not Coding
 
 🎯 Active in cybersecurity communities and bug bounty programs
 
@@ -176,10 +178,27 @@ Senior Infrastructure Engineer with expertise in cybersecurity, cloud architectu
 🎮 Gamer who applies strategic thinking to infrastructure challenges
 
 🥋 Krav Maga practitioner - discipline in martial arts & cybersecurity
+</p>
+</p>
+<hr style="border-color:blue;">
+
+## 🌟 Fun Facts
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+</p>
+
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=iceyami&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
+
+<hr style="border-color:blue;">
 
 ## 🎮 TOP MULTIPLAYER GAMES
 <p>
