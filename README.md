@@ -3,7 +3,7 @@ Hi there! 👋 I'm iceYami
 <hr style="border-color:blue;">
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0099FF&center=true&vCenter=true&width=600&lines=Infrastructure+Engineer;Cybersecurity+Specialist;Systems+Administrator;Cloud+%26+DevOps+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0099FF&center=true&vCenter=true&width=600&lines=Infrastructure+Engineer;Cybersecurity+Specialist;Systems+Administrator;Cloud+%26+DevOps" alt="Typing SVG" />
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Infrastructure+Engineer-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white" />
