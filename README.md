@@ -232,7 +232,7 @@ Access level sufficient for collaboration protocols.
 | **📊 Master in Big Data & Business Intelligence** | 2024 | Security Analytics • Threat Intelligence • Data Warfare |
 | **🚀 MBA - Business Administration** | 2018 | Strategic Planning • Operations Command • Resource Management |
 | **🎯 Master in Project Management** | 2024 | Agile Operations • Security Projects • Team Leadership |
-| **⚙️ Advanced Degree - Network Systems Administration** | Teide IV | Infrastructure Security • System Hardening • Network Defense |
+| **⚙️ Advanced Degree - Network Systems Administration** | 2025 | Infrastructure Security • System Hardening • Network Defense |
 | **🛡️ CISSP Certified** | 2024 | Information Security Professional |
 | **🔧 CCNP Certified** | 2023 | Cisco Network Professional |
 | **🐧 LPIC-1 Certified** | 2023 | Linux Professional Institute |
