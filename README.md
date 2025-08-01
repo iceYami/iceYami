@@ -149,7 +149,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=14&pause=1000&color=0099FF&center=true&width=585&lines=Every+fortress+I+architect+becomes+legendary." />
 </p>
 </div>
-⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 
 ---
 ━━━━━━✧━━⊹━━✧━━━━━➤ — **END OF CLASSIFIED DOSSIER** —
