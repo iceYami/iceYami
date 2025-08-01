@@ -328,7 +328,7 @@ Access level sufficient for collaboration protocols.
 ### **CURRENT ASSIGNMENT**
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
-║  POSITION: Infrastructure Engineer & Security Specialist    ║
+║  POSITION: Infrastructure Manager & Security Specialist     ║
 ║  SECTOR: Enterprise Infrastructure & Cloud Security         ║
 ║  DURATION: 2020 - Present                                   ║
 ║  FOCUS: Multi-cloud architecture and advanced cybersecurity ║
@@ -340,9 +340,9 @@ Access level sufficient for collaboration protocols.
 | **🎖️ PERIOD** | **🎯 ROLE** | **🛡️ KEY VICTORIES** |
 |----------------|-------------|----------------------|
 | **2015-2020** | **Systems Administrator** | Infrastructure foundation, network security |
-| **2020-2023** | **Cloud Infrastructure Engineer** | Multi-cloud mastery, automation excellence |
-| **2023-Present** | **Senior Infrastructure & Security Specialist** | Zero-trust implementation, advanced threat hunting |
-| **2025-Future** | **🔴 Infrastructure Architect & Security Commander** | **🎯 Next-gen digital fortress architect** |
+| **2020-2023** | **IT Infrastructure Manager** | Multi-cloud mastery, automation excellence |
+| **2023-Present** | **Infrastructure Manager & Security Specialist** | Zero-trust implementation, advanced threat hunting |
+| **2025-Future** | **🔴 Infrastructure Manager & Security Commander** | **🎯 Next-gen digital fortress architect** |
 
 </div>
 
@@ -353,7 +353,7 @@ Access level sufficient for collaboration protocols.
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1400&pause=300&color=0099FF&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/records/achievements;%0A%24+sudo+cat+*.classified|grep+-i+%22certified%22;%0A%24+log+verified+-+badges+confirmed..." />
 </p>
 
-## ACHIEVEMENTS & RECOGNITION
+## ACHIEVEMENTS
 
 <div align="center">
 
