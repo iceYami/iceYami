@@ -1,7 +1,7 @@
 # OPERATION: ICEYAMI
 
 ```ascii
-┌─[ OPERATION: DIGITAL FORTRESS ]────────────────────────┐
+┌─[ OPERATION: ICEYAMI ]─────────────────────────────────┐
 │ CODE NAME: ICE PHOENIX | STATUS: ACTIVE                │
 │ SECURE CHANNEL: ██████████████████████████             │
 │ LAST LOGIN: $(date -u +%Y-%m-%dT%H:%M:%SZ)             │
