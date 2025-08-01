@@ -452,13 +452,9 @@ Access level sufficient for collaboration protocols.
 
 <div align="center">
 
-[![Elite Python Specialist](https://img.shields.io/badge/🐍%20Elite%20Python%20Specialist-Exceptional_Developer-007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=0099FF)](https://www.linkedin.com/in/danireve/)
-
-> **TESTIMONIAL - Dany:** *"Master of automation and clean code architecture. A true digital artisan who builds systems that stand the test of time."*
-
 [![Strategic Cyber Recruiter](https://img.shields.io/badge/🎯%20Strategic%20Cyber%20Recruiter-Exceptional_IT_Talent_Hunter-007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=0099FF)](https://www.linkedin.com/in/mjmartinezleo/)
 
-> **TESTIMONIAL - MJ:** *"Sharp analytical mind, clean code, and strong determination. Any team would benefit from working with her."*
+> **TESTIMONIAL - MJ:** *"Sharp analytical mind and strong determination. Any team would benefit from working with her."*
 
 </div>
 
