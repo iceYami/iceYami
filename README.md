@@ -46,6 +46,18 @@
 ---
 ❖⌜▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄⌝❖
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/iceyami/">
+    <img src="https://raw.githubusercontent.com/iceYami/Almacen/main/MakimaTalking.gif" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/iceyami/">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Code&size=11&pause=1000&random=false&width=700&height=100&lines=%22When+you+build+systems+that+can+withstand+any+storm%2C+you%E2%80%99re+not+just+an+engineer+%E2%80%93+you%E2%80%99re+an+architect+of+eternity.%22" />
+  </a>
+</p>
+
 </div>
  
 <p align="center">
@@ -160,18 +172,6 @@ Access level sufficient for collaboration protocols.
 
 <p align="center">
   <img src="https://wallpapercave.com/wp/wp10468266.jpg" width="800">
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/iceyami/">
-    <img src="https://raw.githubusercontent.com/iceYami/Almacen/main/MakimaTalking.gif" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/iceyami/">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Code&size=11&pause=1000&random=false&width=700&height=100&lines=%22When+you+build+systems+that+can+withstand+any+storm%2C+you%E2%80%99re+not+just+an+engineer+%E2%80%93+you%E2%80%99re+an+architect+of+eternity.%22" />
-  </a>
 </p>
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
