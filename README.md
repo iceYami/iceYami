@@ -44,7 +44,9 @@
 ```
 
 ---
+<p align="center">
 ❖⌜▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄⌝❖
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iceyami/">
@@ -94,7 +96,10 @@
 
 </div>
 
+<p align="center">
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+</p>
+  
 ---
 
 <p align="center">
@@ -128,7 +133,10 @@
 
 </div>
 
+<p align="center">
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+</p>
+  
 ---
 
 <p align="center">
@@ -174,7 +182,11 @@ Access level sufficient for collaboration protocols.
   <img src="https://wallpapercave.com/wp/wp10468266.jpg" width="800">
 </p>
 
+
+<p align="center">
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+</p>
+
 ---
 
 <p align="center">
@@ -206,7 +218,11 @@ Access level sufficient for collaboration protocols.
 
 **[🏗️ Infrastructure + 🛡️ Security + ⚡ Automation]**
 
+
+<p align="center">
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+</p>
+
 ---
 
 <p align="center">
@@ -233,7 +249,10 @@ Access level sufficient for collaboration protocols.
 
 </div>
 
+<p align="center">
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+</p>
+  
 ---
 </div>
 
@@ -260,7 +279,10 @@ Access level sufficient for collaboration protocols.
 
 </div>
 
+<p align="center">
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+</p>
+  
 ---
 
 <p align="center">
@@ -281,10 +303,12 @@ Access level sufficient for collaboration protocols.
 | **🔧 DEVOPS & AUTOMATION** | ![Ansible](https://img.shields.io/badge/Ansible-Infrastructure_Code-EE0000?style=flat&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-Cloud_Automation-623CE4?style=flat&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD_Pipeline-D24939?style=flat&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat&logo=docker&logoColor=white) |
 | **💻 PROGRAMMING & SCRIPTING** | ![Python](https://img.shields.io/badge/Python-Automation_Scripts-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-System_Control-4EAA25?style=flat&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-Windows_Command-5391FE?style=flat&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-Web_Security-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 | **📊 MONITORING & DATABASES** | ![Grafana](https://img.shields.io/badge/Grafana-Visualization-F46800?style=flat&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=flat&logo=prometheus&logoColor=white) ![Nagios](https://img.shields.io/badge/Nagios-System_Watch-2E8B57?style=flat&logo=nagios&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database_Security-336791?style=flat&logo=postgresql&logoColor=white) |
-
 </div>
 
+<p align="center">
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+</p>
+  
 ---
 
 <p align="center">
@@ -305,10 +329,12 @@ Access level sufficient for collaboration protocols.
 - **Cloud Migration Projects:** Enterprise infrastructure modernization
 - **Zero Downtime Deployments:** Blue-green deployment strategies and rollback procedures
 - **Performance Optimization:** System tuning and capacity planning
-
 </div>
 
+<p align="center">
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+</p>
+
 ---
 
 <p align="center">
@@ -340,7 +366,10 @@ Access level sufficient for collaboration protocols.
 
 </div>
 
+<p align="center">
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+</p>
+
 ---
 
 <p align="center">
@@ -366,7 +395,10 @@ Access level sufficient for collaboration protocols.
 
 </div>
 
+<p align="center">
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+</p>
+
 ---
 
 <p align="center">
@@ -388,7 +420,10 @@ Access level sufficient for collaboration protocols.
 
 </div>
 
+<p align="center">
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+</p>
+
 ---
 
 <p align="center">
@@ -418,7 +453,10 @@ Access level sufficient for collaboration protocols.
 
 </div>
 
+<p align="center">
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+</p>
+
 ---
 
 <p align="center">
@@ -454,5 +492,3 @@ Access level sufficient for collaboration protocols.
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1100&pause=300&color=0099FF&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+top+-bn1+|+grep+IceYami+process+load;%0A%24+cat+/core/digital_warfare/uptime_counter.classified;%0A%24+curl+-s+--auth+ICE_SIG+mission_pulse.api..." />
 </p>
-
-##
