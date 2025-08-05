@@ -449,9 +449,27 @@
 
 ### **🎯 VERIFIED PARTNERSHIPS**
 
-[![Strategic Cyber Recruiter](https://img.shields.io/badge/🎯%20Strategic%20Cyber%20Recruiter-Exceptional_IT_Talent_Hunter-007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=0099FF)](https://www.linkedin.com/in/mjmartinezleo/)
+<div align="center">
 
-> **🏆 TESTIMONIAL - MJ Martínez:** *"Sharp analytical mind and strong determination. Any team would benefit from working with her exceptional technical expertise and leadership capabilities."*
+[![Strategic Cyber Operative](https://img.shields.io/badge/🎯%20Zyanetralys-Elite_Cyber_Intelligence_Operative-800000.svg?style=for-the-badge&logo=target&logoColor=FF0000)](https://www.linkedin.com/in/mjmartinezleo/)
+[![GitHub - Zyanetralys](https://img.shields.io/badge/GitHub-Zyanetralys-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zyanetralys)
+
+> **🛡️ CLASSIFIED TESTIMONIAL - Zyanetralys:**  
+*"Razor-sharp intellect, relentless precision, and an unparalleled ability to hunt, recruit, and orchestrate elite cyber operatives.  
+Trusted in high-stakes, black-ops environments where failure is not an option."*
+
+</div>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1100&pause=200&color=FF0000&center=true&vCenter=true&multiline=true&width=880&height=90&lines=%24+scanning+alliances...+connection+secured+%5BZYANETRALYS%5D;%0A%24+authenticating+link+to+BLACKSITE_NETWORK;%0A%24+fetching+intel_ops%2Fzyanetralys.signature...ACCESS_GRANTED" />
+</p>
+
+<div align="center">
+
+---
+</div>
+
+<div align="center">
 
 ### **🌐 PROFESSIONAL NETWORK**
 ```ascii
