@@ -2,7 +2,7 @@
 
 ```ascii
 ┌─[ OPERATION: ICEYAMI ]─────────────────────────────────┐
-│ CODE NAME: ICE YAMI | STATUS: ACTIVE                │
+│ CODE NAME: ICEYAMI | STATUS: ACTIVE                │
 │ SECURE CHANNEL: ██████████████████████████             │
 │ LAST LOGIN: $(date -u +%Y-%m-%dT%H:%M:%SZ)             │
 └─────────────────────────────────────────────────────────┘
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,28&height=300&section=header&text=ICE%20YAMI&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=0099FF&desc=INFRASTRUCTURE%20COMMANDER%20•%20SECURITY%20ARCHITECT%20•%20DIGITAL%20FORTRESS%20ENGINEER&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,28&height=300&section=header&text=ICEYAMI&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=0099FF&desc=INFRASTRUCTURE%20COMMANDER%20•%20SECURITY%20ARCHITECT%20•%20DIGITAL%20FORTRESS%20ENGINEER&descAlignY=55&descSize=20"/>
 
 </div>
 
@@ -22,12 +22,12 @@
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════╗
-║   ██╗ ██████╗███████╗    ██╗   ██╗ █████╗ ███╗   ███╗ ██╗ ║
-║   ██║██╔════╝██╔════╝    ╚██╗ ██╔╝██╔══██╗████╗ ████║║██║ ║
-║   ██║██║     █████╗       ╚████╔╝ ███████║██╔████╔██║║██║ ║
-║   ██║██║     ██╔══╝        ╚██╔╝  ██╔══██║██║╚██╔╝██║║██║ ║
-║   ██║╚██████╗███████╗       ██║   ██║  ██║██║ ╚═╝ ██║║██║ ║
-║   ╚═╝ ╚═════╝╚══════╝       ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝ ╚═╝ ║
+║   ██╗ ██████╗███████╗ ██╗   ██╗ █████╗ ███╗   ███╗ ██╗    ║
+║   ██║██╔════╝██╔════╝  ██╗ ██╔╝██╔══██╗████╗ ████║║██║    ║
+║   ██║██║     █████╗     ████╔╝ ███████║██╔████╔██║║██║    ║
+║   ██║██║     ██╔══╝      ██╔╝  ██╔══██║██║╚██╔╝██║║██║    ║
+║   ██║╚██████╗███████╗    ██║   ██║  ██║██║ ╚═╝ ██║║██║    ║
+║   ╚═╝ ╚═════╝╚══════╝    ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ║
 ║              INFRASTRUCTURE COMMANDER READY               ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
