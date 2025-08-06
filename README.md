@@ -33,6 +33,8 @@
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
+</div>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/iceyami/">
     <img src="https://raw.githubusercontent.com/iceYami/Almacen/main/MakimaTalking.gif" />
@@ -40,8 +42,6 @@
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&pause=1000&color=FF0080&center=true&width=850&lines=𝔇𝔦𝔤𝔦𝔱𝔞𝔩+𝔉𝔬𝔯𝔱𝔯𝔢𝔰𝔰+𝔞𝔯𝔠𝔥𝔦𝔱𝔢𝔠𝔱+𝔦𝔫+𝔞+𝔞𝔡𝔞𝔪+2015;𝔈𝔳𝔢𝔯𝔶+𝔖𝔶𝔰𝔱𝔢𝔪+ℑ+ℌ𝔞𝔯𝔡𝔢𝔫+𝔦𝔰+𝔦𝔦𝔪𝔭𝔯𝔢𝔤𝔫𝔞𝔞𝔟𝔩𝔢;𝔒𝔦𝔣𝔦𝔢𝔫𝔰𝔦𝔳𝔢+•+𝔇𝔦𝔞𝔞𝔞𝔞𝔞𝔞+•+ℌ𝔞𝔰𝔰𝔞𝔲𝔦𝔞𝔞𝔞𝔞𝔞𝔞𝔞_•𓈈" />
-
-</div>
 
 <p align="center">
 ❖⌜▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄⌝❖
