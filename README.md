@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=800&pause=200&color=00FFFF&center=true&vCenter=true&multiline=true&width=950&height=140&lines=$+ssh+IceYami@blacksite.fortress.net+--port+31337+-i+~/.ssh/ghost_key;$+[██████████]+Bypassing+Quantum+Firewalls...;$+[BREACH_SUCCESSFUL]+Multi-Factor+Authentication+Defeated;$+[ELEVATED_ACCESS]+Root+Shell+Acquired+-+Welcome+Operative;$+[GHOST_MODE]+Infrastructure+Command+Center+Online;$+[THREAT_LEVEL]+Adjusting+to+MAXIMUM+Operational+Capacity..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=900&pause=300&color=0099FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=$+ssh+IceYami@fortress.net+--port+22443;$+[HANDSHAKE]+Initiating+Secure+Shell+Tunnel...;$+[AUTH]+Bypassing+Multi-Factor+Gatekeeper...;$+[ACCESS_GRANTED]+Welcome+Operative+IceYami+-+Session+Active;$+Loading+Infrastructure+Command+Center..." />
 </p>
 
 <div align="center">
