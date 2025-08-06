@@ -10,9 +10,7 @@
 ```
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,28&height=300&section=header&text=ICEYAMI&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=0099FF&desc=INFRASTRUCTURE%20COMMANDER%20•%20SECURITY%20ARCHITECT%20•%20DIGITAL%20FORTRESS%20ENGINEER&descAlignY=55&descSize=20"/>
-
 </div>
 
 <p align="center">
@@ -41,7 +39,9 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&pause=1000&color=FF0080&center=true&width=850&lines=𝔇𝔦𝔤𝔦𝔱𝔞𝔩+𝔉𝔬𝔯𝔱𝔯𝔢𝔰𝔰+𝔞𝔯𝔠𝔥𝔦𝔱𝔢𝔠𝔱+𝔦𝔫+𝔞+𝔞𝔡𝔞𝔪+2015;𝔈𝔳𝔢𝔯𝔶+𝔖𝔶𝔰𝔱𝔢𝔪+ℑ+ℌ𝔞𝔯𝔡𝔢𝔫+𝔦𝔰+𝔦𝔦𝔪𝔭𝔯𝔢𝔤𝔫𝔞𝔞𝔟𝔩𝔢;𝔒𝔦𝔣𝔦𝔢𝔫𝔰𝔦𝔳𝔢+•+𝔇𝔦𝔞𝔞𝔞𝔞𝔞𝔞+•+ℌ𝔞𝔰𝔰𝔞𝔲𝔦𝔞𝔞𝔞𝔞𝔞𝔞𝔞_•𓈈" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0099FF&width=700&lines=Building+Digital+Fortresses+Since+2015;Every+System+I+Architect+Becomes+Legendary;Security+First+•+Innovation+Always"/>
+</p>
 
 <p align="center">
 ❖⌜▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄⌝❖
@@ -570,17 +570,16 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=1000&pause=250&color=00FFFF&center=true&vCenter=true&multiline=true&width=880&height=100&lines=%24+cd+/intel/elite_network;%0A%24+sha256sum+trust_chain.sig+-v+--verify-signatures;%0A%24+cat+verified_alliances.asc+--decrypt+ICE_KEY;%0A%24+[LOADING]+Elite+Alliance+Network+Database..." />
 </p>
 
-
-## 🤝 ALLIANCE NETWORK & PROFESSIONAL ENDORSEMENTS
-
-<div align="center">
-
-### **🎯 VERIFIED PARTNERSHIPS**
+## 🤝 ELITE ALLIANCE NETWORK & VERIFIED PARTNERSHIPS
 
 <div align="center">
 
-[![Strategic Cyber Operative](https://img.shields.io/badge/🎯%20Zyanetralys-Elite_Cyber_Intelligence_Operative-800000.svg?style=for-the-badge&logo=target&logoColor=FF0000)](https://www.linkedin.com/in/mjmartinezleo/)
-[![GitHub - Zyanetralys](https://img.shields.io/badge/GitHub-Zyanetralys-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zyanetralys)
+### **🎯 VERIFIED ELITE OPERATIVE ALLIANCES**
+
+<div align="center">
+
+[![Strategic Cyber Operative](https://img.shields.io/badge/🎯%20Zyanetralys-Elite_Cyber_Intelligence_Commander-800000.svg?style=for-the-badge&logo=target&logoColor=FF0000&labelColor=000000)](https://www.linkedin.com/in/mjmartinezleo/)
+[![GitHub - Zyanetralys](https://img.shields.io/badge/🐙_GitHub-Zyanetralys_Blacksite-181717.svg?style=for-the-badge&logo=github&logoColor=FF0000&labelColor=000000)](https://github.com/Zyanetralys)
 
 > **🛡️ CLASSIFIED TESTIMONIAL - Zyanetralys:**  
 *"Razor-sharp intellect, relentless precision, and an unparalleled ability to hunt, recruit, and orchestrate elite cyber operatives.  
