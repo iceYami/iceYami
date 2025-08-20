@@ -635,8 +635,8 @@ print("🎯 Ready for penetration testing and security operations")
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=800&pause=100&color=FF0000&center=true&vCenter=true&multiline=true&width=850&height=45&lines=$+./deploy_security_payload.sh+--stealth-mode;$+chmod+755+firewall_rules.conf+HARDENED;$+system_secured+[ICEYAMI_SIGNATURE]" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=850&pause=300&color=FF0000&center=true&vCenter=true&multiline=true&width=850&height=45&lines=$+backup+--encrypt+--offsite+status=success;$+SECURITY_PROTOCOL_COMPLETE+-+INFRASTRUCTURE+PROTECTED;$+shutdown+-r+now+--secure-boot" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=800&pause=100&color=FF0000&center=true&vCenter=true&multiline=true&width=850&height=60&lines=$+./deploy_security_payload.sh+--stealth-mode;$+chmod+755+firewall_rules.conf+HARDENED;$+system_secured+[ICEYAMI_SIGNATURE]" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=850&pause=300&color=FF0000&center=true&vCenter=true&multiline=true&width=850&height=60&lines=$+backup+--encrypt+--offsite+status=success;$+SECURITY_PROTOCOL_COMPLETE+-+INFRASTRUCTURE+PROTECTED;$+shutdown+-r+now+--secure-boot" />
 </p>
 
 <p align="center">
