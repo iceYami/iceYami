@@ -72,8 +72,6 @@
 
 ## 『 RED TEAM OPERATIONS & PENETRATION ARSENAL 』
 
-<div align="center">
-
 <table>
 <tr>
 <td>
@@ -125,8 +123,6 @@ Digital Forensics:
 </td>
 </tr>
 </table>
-
-</div>
 
 <div align="center">
 
