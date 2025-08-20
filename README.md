@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROFESSIONAL_HUB-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00D4FF&labelColor=0A66C2&color=1565C0)](https://www.linkedin.com/in/iceyami/)
 [![Red Team Status](https://img.shields.io/badge/⚔️_RED_TEAM-ACTIVE-FF0000?style=for-the-badge&logo=target&logoColor=white&labelColor=8B0000)](https://github.com/Iceyami)
 [![Penetration Status](https://img.shields.io/badge/PENTEST-ENGAGED-00FF41?style=for-the-badge&logo=security&logoColor=black&labelColor=228B22)](https://github.com/Iceyami)
-[![Mentorship Wanted](https://img.shields.io/badge/MENTORSHIP_WANTED-PARTNER_IN_GROWTH-FF4081?style=for-the-badge&logo=mentor&logoColor=FFFFFF&labelColor=FF4081&color=FF4081)](https://github.com/Iceyami)
+[![Mentorship Wanted](https://img.shields.io/badge/MENTORSHIP_WANTED-PARTNER_IN_GROWTH-FF4081?style=for-the-badge&logo=mentor&logoColor=FFFFFF&labelColor=FF4081&color=FF4081)](https://www.linkedin.com/in/iceyami/)
 
 </div>
 
