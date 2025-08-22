@@ -6,6 +6,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Impact&size=32&duration=2500&pause=1000&center=true&vCenter=true&width=800&color=00D4FF&lines=PENETRATION+SPECIALIST;RED+TEAM+OPERATIVE;OFFENSIVE+SECURITY+RESEARCHER;INFRASTRUCTURE+GUARDIAN;" />
 </p>
 
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GITHUB-CYBER_ARSENAL-000000?style=for-the-badge&logo=github&logoColor=00D4FF&labelColor=000000&color=1a1a1a)](https://github.com/Iceyami)
