@@ -41,6 +41,10 @@
 
 </div>
 
+<p align="center">
+  <img src="https://media.tenor.com/3wDoOgiX3nYAAAAM/panther.gif" alt="Panther"/>
+</p>
+
 ---
 
 <p align="center">
