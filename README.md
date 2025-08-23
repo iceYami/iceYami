@@ -189,20 +189,207 @@ Digital Forensics:
 ---
 
 ## 『 CYBER RANGE TRAINING GROUNDS 』
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-FF6B35?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/iceyami)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/iceyami)
-[![VulnHub](https://img.shields.io/badge/VulnHub-FF4500?style=for-the-badge&logo=vulnhub&logoColor=white)](https://vulnhub.com/author/iceyami)
-[![RootMe](https://img.shields.io/badge/RootMe-FF6C37?style=for-the-badge&logo=rootme&logoColor=white)](https://www.root-me.org/iceyami)
-[![DockerLabs](https://img.shields.io/badge/DockerLabs-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://dockerlabs.es/user/iceyami)
-[![HackerOne](https://img.shields.io/badge/HackerOne-1A1A1A?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/iceyami)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-000000?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/iceyami)
-[![TCMSec](https://img.shields.io/badge/TCMSecurity-FF0000?style=for-the-badge)](https://academy.tcm-sec.com/user/iceyami)
-[![Pwn.college](https://img.shields.io/badge/Pwn.college-FF6B35?style=for-the-badge)](https://pwn.college/user/iceyami)
-[![HackThisSite](https://img.shields.io/badge/HackThisSite-DB4C3F?style=for-the-badge)](https://hackthissite.org/user/iceyami)
-[![OverTheWire](https://img.shields.io/badge/OverTheWire-000000?style=for-the-badge)](https://overthewire.org/iceyami)
-[![PicoCTF](https://img.shields.io/badge/PicoCTF-EC3C3C?style=for-the-badge&logo=picocontest&logoColor=white)](https://picoctf.org/user/iceyami)
-[![CTF Time](https://img.shields.io/badge/CTF_Time-1E2D38?style=for-the-badge&logo=ctftime&logoColor=white)](https://ctftime.org/user/iceyami)
-[![Hacker101](https://img.shields.io/badge/Hacker101-003D79?style=for-the-badge&logo=hackerone&logoColor=white)](https://www.hacker101.com/users/iceyami)
+<div align="center">
+
+# **ICEYAMI**
+### `>> WELCOME TO THE DARK SIDE OF CYBERSECURITY <<`
+>...Nah, just kidding.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=1500&pause=800&color=FF0000&center=true&vCenter=true&multiline=true&width=900&height=150&lines=UNAUTHORIZED+ACCESS+GRANTED;SYSTEM+EXPLOITATION+IN+PROGRESS;ROOT%40EVERYWHERE%24%23;PWNING+THE+DIGITAL+WORLD;BLACK+HAT+OPERATIONS+ACTIVE;FEAR+THE+PENGUIN" alt="Typing SVG" />
+
+```
+ ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█                                                                              █
+█  ⚠️  WARNING: UNAUTHORIZED INTRUSION DETECTED ⚠️                              █
+█  🔒 SYSTEM STATUS: COMPROMISED                                               █
+█  💀 SECURITY LEVEL: NULL                                                     █
+█  🏴‍☠️ HACKER STATUS: ACTIVE                                                    █
+█                                                                              █
+█  "In a world full of locked doors, I am the master key" - iceyami           █
+█                                                                              █
+ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+```
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+</div>
+
+---
+
+<div align="center">
+
+### `>> CYBERSECURITY SPECIALIST & CTF PLAYER <<`
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=PENETRATION+TESTING;CTF;CYBERSECURITY+RESEARCHER;DIGITAL+FORENSICS+ANALYST" />
+
+```
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║  🔐 CYBERSECURITY PROFESSIONAL  |  🏆 CTF COMPETITOR  |  🔍 SECURITY RESEARCHER     ║
+║                                                                                      ║
+║  "Turning curiosity into cybersecurity expertise, one challenge at a time"          ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+</div>
+
+---
+
+## 🏆 **CTF ACHIEVEMENTS & WRITEUPS**
+
+<div align="center">
+
+### 🚩 **COMPREHENSIVE CTF PORTFOLIO**
+*Complete analysis and solutions for various cybersecurity challenges*
+
+</div>
+
+| 🎯 **Challenge** | 🔧 **Category** | 🏟️ **Platform** | 📊 **Status** | 📖 **Writeup** |
+|------------------|-----------------|------------------|---------------|-----------------|
+| Empire Breakout | Buffer Overflow | VulnHub | ✅ Completed | [📋 Analysis](https://github.com/iceYami/CTF_Analisis/blob/main/Empire_Breakout.md) |
+| Empire Breakout Extended | Advanced Exploitation | VulnHub | ✅ Completed | [📋 Analysis](https://github.com/iceYami/CTF_Analisis/blob/main/Empire_Breakout_Extended.md) |
+| The Planets: Earth | Privilege Escalation | VulnHub | ✅ Completed | [📋 Analysis](https://github.com/iceYami/CTF_Analisis/blob/main/Planets_Earth.md) |
+| The Planets: Earth Extended | System Compromise | VulnHub | ✅ Completed | [📋 Analysis](https://github.com/iceYami/CTF_Analisis/blob/main/Planets_Earth_Extended.md) |
+| QueryGate | SQL Injection | VulnHub | ✅ Completed | [📋 Analysis](https://github.com/iceYami/CTF_Analisis/blob/main/QueryGate.md) |
+| SecureCommand | Command Injection | VulnHub | ✅ Completed | [📋 Analysis](https://github.com/iceYami/CTF_Analisis/blob/main/SecureCommand.md) |
+| Telnet Reconnaissance | Network Security | VulnHub | ✅ Completed | [📋 Analysis](https://github.com/iceYami/CTF_Analisis/blob/main/Telnet_Recon.md) |
+| Bandit Wargames | SSH & Linux Skills | OverTheWire | ✅ Completed | [📋 Analysis](https://github.com/iceYami/CTF_Analisis/blob/main/Bandit.md) |
+| Captain Linux | System Administration | CTF | ✅ Completed | [📋 Analysis](https://github.com/iceYami/CTF_Analisis/blob/main/CaptainLinux.md) |
+| Windows RDP Forensics | Digital Forensics | CTF | ✅ Completed | [📋 Analysis](https://github.com/iceYami/CTF_Analisis/blob/main/An%C3%A1lisis_Forense_Windows_RDP.md) |
+| PowerShell Recon+Enum | Windows Security | CTF | ✅ Completed | [📋 Analysis](https://github.com/iceYami/CTF_Analisis/blob/main/Recon%2BEnum_PowerShell.md) |
+
+---
+
+## 🏅 **COMPETITIONS**
+
+<div align="center">
+
+| 🏆 **Achievement** | 📅 **Date** | 🎖️ **Recognition** | 📜 **Details** |
+|--------------------|-------------|-------------------|----------------|
+| Women4Cyber CyberDrill 2025 | 2025 | 🥇 **Professional Level** | [🔗 Report](https://github.com/iceYami/CTF_Analisis/blob/main/Women4Cyber%20_ProfessionalCyberDrill25.md) |
+
+</div>
+
+---
+
+## 💻 **DEVELOPMENT PROJECTS**
+
+<table>
+<tr>
+<td width="50%">
+
+### **Security Tools & Scripts**
+- 🐍 **Python Security Scripts** - Custom automation tools
+- 🗃️ **SQL Security Testing** - Database security assessment tools
+- 🔧 **CTF Utilities** - Helper scripts for competitions
+
+</td>
+<td width="50%">
+
+### **Knowledge Repositories**
+- 📚 **[CTF Analysis](https://github.com/iceYami/CTF_Analisis)** - Detailed writeups & methodologies
+- 🏋️ **[Codewars Solutions](https://github.com/iceYami/Codewars)** - Algorithm practice
+- 💾 **[SQL Projects](https://github.com/iceYami/SQL)** - Database security research
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 **GITHUB STATISTICS**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=iceYami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iceYami&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🔥 **ENCRYPTED COMMUNICATION CHANNELS** 🔥
+
+⚠️ **WARNING: All communications are monitored and encrypted** ⚠️
+
+<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="500"/>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iceYami)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iceyami/)
+
+</div>
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🔐 "Security is not a product, but a process"                  │
+│     - Dedicated to continuous learning and improvement          │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+⭐ **HACKERS NEED RECOGNITION... DON'T WE?** ⭐
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+</div>
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+```
+ ██████╗ ██████╗ ███╗   ██╗████████╗ █████╗  ██████╗████████╗    ████████╗██╗  ██╗███████╗    
+██╔════╝██╔═══██╗████╗  ██║╚══██╔══╝██╔══██╗██╔════╝╚══██╔══╝    ╚══██╔══╝██║  ██║██╔════╝    
+██║     ██║   ██║██╔██╗ ██║   ██║   ███████║██║        ██║          ██║   ███████║█████╗      
+██║     ██║   ██║██║╚██╗██║   ██║   ██╔══██║██║        ██║          ██║   ██╔══██║██╔══╝      
+╚██████╗╚██████╔╝██║ ╚████║   ██║   ██║  ██║╚██████╗   ██║          ██║   ██║  ██║███████╗    
+ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝   ╚═╝          ╚═╝   ╚═╝  ╚═╝╚══════╝    
+                                                                                               
+██╗   ██╗███╗   ██╗██████╗ ███████╗██████╗  ██████╗ ██████╗  ██████╗ ██╗   ██╗███╗   ██╗██████╗ 
+██║   ██║████╗  ██║██╔══██╗██╔════╝██╔══██╗██╔════╝ ██╔══██╗██╔═══██╗██║   ██║████╗  ██║██╔══██╗
+██║   ██║██╔██╗ ██║██║  ██║█████╗  ██████╔╝██║  ███╗██████╔╝██║   ██║██║   ██║██╔██╗ ██║██║  ██║
+██║   ██║██║╚██╗██║██║  ██║██╔══╝  ██╔══██╗██║   ██║██╔══██╗██║   ██║██║   ██║██║╚██╗██║██║  ██║
+╚██████╔╝██║ ╚████║██████╔╝███████╗██║  ██║╚██████╔╝██║  ██║╚██████╔╝╚██████╔╝██║ ╚████║██████╔╝
+ ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═════╝ 
+```
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                    💀 HACKER'S CREED 💀                       ║
+║                                                               ║
+║  "I am the ghost in your machine,                             ║
+║   the nightmare in your network,                              ║
+║   the darkness in your data.                                  ║
+║   I am everywhere and nowhere.                                ║
+║   I am... iceyami."                                           ║
+║                                                               ║
+║  🏴‍☠️ "Fear has a name, and it compiles in Python" 🏴‍☠️          ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+### ⭐ **HACKERS NEED RECOGNITION... DON'T WE?** ⭐
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+```
+    ██╗  ██╗ █████╗  ██████╗██╗  ██╗    ████████╗██╗  ██╗███████╗    
+    ██║  ██║██╔══██╗██╔════╝██║ ██╔╝    ╚══██╔══╝██║  ██║██╔════╝    
+    ███████║███████║██║     █████╔╝        ██║   ███████║█████╗      
+    ██╔══██║██╔══██║██║     ██╔═██╗        ██║   ██╔══██║██╔══╝      
+    ██║  ██║██║  ██║╚██████╗██║  ██╗       ██║   ██║  ██║███████╗    
+    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝       ╚═╝   ╚═╝  ╚═╝╚══════╝    
+                                                                      
+    ██████╗ ██╗      █████╗ ███╗   ██╗███████╗████████╗               
+    ██╔══██╗██║     ██╔══██╗████╗  ██║██╔════╝╚══██╔══╝               
+    ██████╔╝██║     ███████║██╔██╗ ██║█████╗     ██║                  
+    ██╔═══╝ ██║     ██╔══██║██║╚██╗██║██╔══╝     ██║                  
+    ██║     ███████╗██║  ██║██║ ╚████║███████╗   ██║                  
+    ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝   ╚═
+
+```
 
 ---
 
