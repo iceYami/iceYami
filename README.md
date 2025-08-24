@@ -352,17 +352,6 @@ Digital Forensics:
 
 </div>
 
-## 🤝 **REACH ME**
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iceYami)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iceyami/)
-
-</div>
-
-<div align="center">
-
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  🔐 "Security is not a product, but a process"                  │
