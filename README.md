@@ -39,7 +39,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&pause=1200&color=00D4FF&center=true&width=700&lines=EXPLOIT+THE+VULNERABILITIES+BEFORE+THE+ATTACKERS+DO" /></p>
 
-**[🛡️ Security + 🔍 Analysis + ⚔️ Offensive Operations]**
+**[Security + Analysis + Offensive Operations]**
 
 </div>
 
