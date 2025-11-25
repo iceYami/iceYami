@@ -429,8 +429,6 @@ Digital Forensics:
 
 ### ⭐ **HACKERS NEED RECOGNITION... DON'T WE?** ⭐
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
 ```
     ██╗  ██╗ █████╗  ██████╗██╗  ██╗    ████████╗██╗  ██╗███████╗    
     ██║  ██║██╔══██╗██╔════╝██║ ██╔╝    ╚══██╔══╝██║  ██║██╔════╝    
