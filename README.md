@@ -10,10 +10,10 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-CYBER_ARSENAL-000000?style=for-the-badge&logo=github&logoColor=00D4FF&labelColor=000000&color=1a1a1a)](https://github.com/Iceyami)
+[![GitHub](https://img.shields.io/badge/GITHUB-CYBER_ARSENAL-000000?style=for-the-badge&logo=github&logoColor=00D4FF&labelColor=000000&color=1a1a1a)](https://iceyami.github.io/cv/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROFESSIONAL_HUB-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00D4FF&labelColor=0A66C2&color=1565C0)](https://www.linkedin.com/in/iceyami/)
-[![Red Team Status](https://img.shields.io/badge/⚔️_RED_TEAM-ACTIVE-FF0000?style=for-the-badge&logo=target&logoColor=white&labelColor=8B0000)](https://github.com/Iceyami)
-[![Penetration Status](https://img.shields.io/badge/PENTEST-ENGAGED-00FF41?style=for-the-badge&logo=security&logoColor=black&labelColor=228B22)](https://github.com/Iceyami)
+[![Red Team Status](https://img.shields.io/badge/⚔️_RED_TEAM-ACTIVE-FF0000?style=for-the-badge&logo=target&logoColor=white&labelColor=8B0000)](https://iceyami.github.io/cv/)
+[![Penetration Status](https://img.shields.io/badge/PENTEST-ENGAGED-00FF41?style=for-the-badge&logo=security&logoColor=black&labelColor=228B22)](https://iceyami.github.io/cv/)
 [![CTF](https://img.shields.io/badge/CTF-Iceyami-blueviolet?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/iceYami/CTF_Analisis)
 
 </div>
